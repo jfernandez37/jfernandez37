@@ -1,22 +1,34 @@
 ## Bio
 Computer Science and Traditional Mathematics double major and Data Science minor at Salisbury University
-javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-<!--
-**jfernandez37/jfernandez37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current Classes
+- MATH 216 - Statistical Thinking
+- MATH 311 - Differential Equations 1
+- MATH 452 - Analysis 2
+- MATH 495 - Directed Consulting
+- COSC 450 - Operating Systems
+- PACE 411 - Presidential Citizen Scholars 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previous Relevant Classes
+- MATH 201 - Calculus 1 - A
+- MATH 202 - Calculus 2 - A
+- MATH 310 - Calculus 3 - B
+- MATH 210 - Discrete Math - A
+- MATH 306 - Linear Algebra - B
+- MATH 451 - Analysis 1 - A
+- COSC 117 - Programming Fundamentals - A
+- COSC 120 - Computer Science 1 - B
+- COSC 220 - Computer Science 2 - A
+- COSC 250 - Microcomputer Organization - A
+- COSC 362 - Theory of Computation - B
+- COSC 320 - Advanced Data Scructures and Algorithm Analysis - A
+- COSC 350 - Systems Software - B
+- COSC 386 - Database Design and Implementation - A
+
+## Languages
+- C++
+- C
+- Java
+- Python
+- PHP
+- SQL
