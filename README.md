@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## Bio
+Computer Science and Traditional Mathematics double major and Data Science minor at Salisbury University
+javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 <!--
 **jfernandez37/jfernandez37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
