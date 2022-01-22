@@ -1,5 +1,5 @@
 ## Bio
-Computer Science and Traditional Mathematics double major and Data Science minor at Salisbury University
+Computer Science and Traditional Mathematics double major and Data Science minor studying at Salisbury University.
 
 ## Current Classes
 - MATH 216 - Statistical Thinking
