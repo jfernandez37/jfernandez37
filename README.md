@@ -33,4 +33,4 @@ Computer Science and Traditional Mathematics double major and Data Science minor
 - PHP
 - SQL
 
-## Salisbury University Gull Code 2022 Winner
+# Salisbury University Gull Code 2022 Winner
