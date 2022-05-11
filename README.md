@@ -35,3 +35,8 @@ Computer Science and Traditional Mathematics double major and Data Science minor
 
 # Acheivements
 - Salisbury University Gull Code 2022 Winner
+- Member of Upsilon Pi Epsilon
+- Member of Pi Mu Epsilon
+- Member of Omicron Delta Kappa
+- Eagle Scout
+- Salisbury University Honors College
