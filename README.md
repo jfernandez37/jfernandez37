@@ -2,12 +2,11 @@
 Computer Science and Traditional Mathematics dual major and Data Science minor studying at Salisbury University.
 
 ## Current Classes
-- MATH 216 - Statistical Thinking
-- MATH 311 - Differential Equations 1
-- MATH 452 - Analysis 2
-- MATH 495 - Directed Consulting
-- COSC 450 - Operating Systems
-- PACE 411 - Presidential Citizen Scholars 3
+- MATH 490 - Combinatorics
+- MATH 441 - Abstract Algebra 
+- MATH 465 - Mathematical Modeling
+- COSC 420 - Parallel Computing
+- COSC 425 - Software Engineering 1 
 
 ## Previous Relevant Classes
 - MATH 201 - Calculus 1 - A
@@ -24,6 +23,12 @@ Computer Science and Traditional Mathematics dual major and Data Science minor s
 - COSC 320 - Advanced Data Scructures and Algorithm Analysis - A
 - COSC 350 - Systems Software - B
 - COSC 386 - Database Design and Implementation - A
+- MATH 216 - Statistical Thinking - A
+- MATH 311 - Differential Equations 1 - A
+- MATH 452 - Analysis 2 - A
+- MATH 495 - Directed Consulting - A
+- COSC 450 - Operating Systems - A
+- PACE 411 - Presidential Citizen Scholars 3 - A
 
 ## Languages
 - C++
