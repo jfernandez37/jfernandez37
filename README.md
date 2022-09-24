@@ -28,7 +28,6 @@ Computer Science and Traditional Mathematics dual major and Data Science minor s
 - MATH 452 - Analysis 2 - A
 - MATH 495 - Directed Consulting - A
 - COSC 450 - Operating Systems - A
-- PACE 411 - Presidential Citizen Scholars 3 - A
 
 ## Languages
 - C++
