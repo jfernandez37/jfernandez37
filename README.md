@@ -30,10 +30,10 @@ Computer Science and Traditional Mathematics dual major and Data Science minor s
 - COSC 450 - Operating Systems - A
 
 ## Languages
+- Python
 - C++
 - C
 - Java
-- Python
 - PHP
 - SQL
 
