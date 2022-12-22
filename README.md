@@ -32,7 +32,7 @@ Computer Science and Traditional Mathematics dual major and Data Science minor s
 - COSC 425 - Software Engineering 1 - A
 - MATH 441 - Abstract Algebra - A
 - MATH 465 - Mathematical Modeling - A
-- MATH 490 - Combinatorics
+- MATH 490 - Combinatorics - A
 
 ## Languages
 - Python
