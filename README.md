@@ -1,16 +1,9 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jfernandez37&count_private=true&show_icons=true&theme=react)](https://github.com/jfernandez37)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfernandez37&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/jfernandez37)
 ## Bio
-Computer Science and Traditional Mathematics dual major and Data Science minor studying at Salisbury University.
+Computer Science Student Trainee at NIST.
 
-## Current Classes
-- MATH 406 - Geometric Structures
-- COSC 311 - Intro to Data Visualization
-- COSC 370 - Computer Networks
-- COSC 426 - Software Engineering 2
-
-
-## Previous Relevant Classes
+## Classes from Salisbury University
 - MATH 201 - Calculus 1 - A
 - MATH 202 - Calculus 2 - A
 - MATH 310 - Calculus 3 - B
@@ -35,6 +28,11 @@ Computer Science and Traditional Mathematics dual major and Data Science minor s
 - MATH 441 - Abstract Algebra - A
 - MATH 465 - Mathematical Modeling - A
 - MATH 490 - Combinatorics - A
+- MATH 406 - Geometric Structures - A
+- COSC 311 - Intro to Data Visualization - A
+- COSC 370 - Computer Networks - B
+- COSC 426 - Software Engineering 2 - A
+
 
 ## Languages
 - Python
