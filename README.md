@@ -52,3 +52,5 @@ Computer Science Student Trainee at NIST.
 - Salisbury University Honors College
 - Salisbury Univeristy Presidential Citizen Scholar
 - Salisbury University Henson Student Leadership Advisory Council member
+- BS Computer Science
+- BS Mathematics
