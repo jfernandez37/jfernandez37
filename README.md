@@ -1,36 +1,5 @@
 ## Bio
-Computer Science Student Trainee at NIST.
-
-## Classes from Salisbury University
-- MATH 201 - Calculus 1 - A
-- MATH 202 - Calculus 2 - A
-- MATH 310 - Calculus 3 - B
-- MATH 210 - Discrete Math - A
-- MATH 306 - Linear Algebra - B
-- MATH 451 - Analysis 1 - A
-- COSC 117 - Programming Fundamentals - A
-- COSC 120 - Computer Science 1 - B
-- COSC 220 - Computer Science 2 - A
-- COSC 250 - Microcomputer Organization - A
-- COSC 362 - Theory of Computation - B
-- COSC 320 - Advanced Data Scructures and Algorithm Analysis - A
-- COSC 350 - Systems Software - B
-- COSC 386 - Database Design and Implementation - A
-- MATH 216 - Statistical Thinking - A
-- MATH 311 - Differential Equations 1 - A
-- MATH 452 - Analysis 2 - A
-- MATH 495 - Directed Consulting - A
-- COSC 450 - Operating Systems - A
-- COSC 420 - High Perfomrance Computing - A
-- COSC 425 - Software Engineering 1 - A
-- MATH 441 - Abstract Algebra - A
-- MATH 465 - Mathematical Modeling - A
-- MATH 490 - Combinatorics - A
-- MATH 406 - Geometric Structures - A
-- COSC 311 - Intro to Data Visualization - A
-- COSC 370 - Computer Networks - B
-- COSC 426 - Software Engineering 2 - A
-
+Computer Scientist at NIST
 
 ## Languages
 - Python
